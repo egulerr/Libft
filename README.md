@@ -11,5 +11,5 @@ make
 ```
 
 ## Conclusion
-The Libft project is an excellent way to learn about programming in C and developing your own library of useful functions. By implementing this library, you will gain experience with memory management, algorithms, and data structures. Using this library in your future projects will also help you write cleaner and more efficient code.
+The Libft project is an excellent way to learn about programming in C and developing your own library of useful functions. By implementing this library, you will can experience with memory management, algorithms, and data structures. Using this library in your future projects will also help you write cleaner and more efficient code.
 
